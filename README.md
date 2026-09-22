@@ -6,3 +6,5 @@ updating read me
 update from local repo
 <br/>
 adding login features
+<br/>
+adding header and footer
